@@ -1,6 +1,8 @@
 # Food App
 
 A new Flutter project.
+Just started with basics. An app with basic interface <br>
+A basic food ordering app where user can order specific meal.
 
 ## Getting Started
 
